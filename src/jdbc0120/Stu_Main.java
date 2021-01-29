@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Stu_Main {
 
 	public static void main(String[] args) {
+		
+	//수정테스트 입니다!!df
 		// SQL문을 실행하기 위한 객체 선언
 		Stu_SQL sql = new Stu_SQL();
 
